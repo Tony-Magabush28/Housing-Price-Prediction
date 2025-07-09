@@ -7,6 +7,8 @@
 - Portfolio: https://my-flask-portfolio.onrender.com/
 
 ---
+## The use of comments helps in understanding the code's flow at each step.
+---
 
 ## 🏠 Housing Price Prediction
 This project implements an end-to-end machine learning pipeline to predict housing prices using multiple regression models. It includes data preprocessing, model training, hyperparameter optimization, model evaluation, and visualization.

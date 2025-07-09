@@ -145,7 +145,7 @@ The high variance shows that house prices vary significantly within the dataset.
 The average deviation from the mean price is about ₵1.87 million, indicating high variability in the housing market.
 
 ## 📌 Key Insights:
-The mean price is higher than the median, suggesting a right-skewed distribution (a few very high-priced houses increase the average).
+The mean price is higher than the median, indicating a right-skewed distribution (where a few very high-priced houses significantly increase the average).
 
 The high standard deviation and variance suggest large differences in house prices, likely due to factors such as property size, amenities, location, and other features.
 
@@ -210,7 +210,7 @@ The high standard deviation and variance suggest large differences in house pric
 | **Root Mean Squared Error (RMSE)** | ₵1,409,854.47         |
 
 - 200 trees (n_estimators)
-- Automatically selecting features per split (`max_features='sqrt'`)
+- Automatically selecting features per split (`max_features='sqrt')
 - No depth limit (`max_depth=None`), allowing full growth as needed.
 - Controls to prevent overfitting via `min_samples_split` and `min_samples_leaf`.
 
@@ -232,7 +232,7 @@ The high standard deviation and variance suggest large differences in house pric
 #### ✅ Quick Insights:
 - **Multiple Linear Regression** achieved the highest R² score (**0.653**), meaning it explained the most variation in house prices.
 - **Random Forest** had **lower errors** (MAE & RMSE) compared to Decision Tree, with balanced performance.
-- **Decision Tree** was the least accurate here but still provides interpretable results.
+- **Decision Tree** was the least accurate here, but still provides interpretable results.
 
 ---
 
@@ -253,9 +253,9 @@ The high standard deviation and variance suggest large differences in house pric
 
 ## 🚀 **How to Run This Project**
 ```bash
-1. Clone this repo
-2. Install dependencies: pip install -r requirements.txt
-3. Run the notebook or script
+. Clone this repo
+[https://github.com/Tony-Magabush28/Housing-Price-Prediction}
+. Run the notebook or script
 
 ---
 
@@ -265,6 +265,6 @@ This project is for educational and demonstration purposes only. The dataset use
 ---
 
 ## 🤝 Acknowledgments
-Thanks to the open-source community and the creators of Python libraries used.
+Thanks to the open-source community and the creators of the Python libraries used.
 🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/anthony-sergo1)  
 💬 Feel free to explore, star ⭐, or fork 🍴 this repository!

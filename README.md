@@ -99,7 +99,7 @@ The goal is to build regression models that can accurately predict house prices 
 ## 📊 Visualizations
 
 ### Histogram of House Prices
-![Histogram of House Prices](images/ph.png)
+![Histogram of House Prices](images/hp.png)
 
 ### Correlation Heatmap
 ![Correlation Heatmap](images/ch.png)
